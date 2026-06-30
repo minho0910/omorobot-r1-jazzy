@@ -9,7 +9,7 @@ This project is to demonstrate R1mini control and navigation in ROS2-jazzy envir
 
 ```bash
   cd {$workspace_path}/src/
-  git clone https://github.com/omorobot/omo_r1mini-jazzy.git
+  git clone https://github.com/minho0910/omorobot-r1-jazzy.git
   git clone https://github.com/PinkWink/YDLidar-SDK.git
   git clone https://github.com/PinkWink/ydlidar_ros2_driver.git
 ```
